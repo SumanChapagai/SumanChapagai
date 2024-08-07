@@ -2,7 +2,7 @@
 
 <h2>📑 Certifications</h2>
 
- - [Security+ (in progress)](https://github.com/SumanChapagai/Cert)
+ - [Security+ ](https://github.com/SumanChapagai/Cert)
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
