@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumanchapagai&label=Profile%20views&color=0e75b6&style=flat" alt="sumanchapagai" /> </p>
 
 
-- 🔭 I’m currently working on [Learning Software Development](https://github.com/SumanChapagai/Java)
+- 🔭 I’m currently working on [Learning Software Development](https://github.com/SumanChapagai/SoftwareDevelopment)
 
 - 🌱 I’m currently learning **Java**
 
