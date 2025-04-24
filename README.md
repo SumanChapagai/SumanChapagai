@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [The Cyber Battlefield](https://github.com/SumanChapagai/cyber-battlefield)
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m planning on learning **Java and Python**
 
 - 📫 How to reach me **Sumanchapagai@gmail.com**
 
