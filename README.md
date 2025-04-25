@@ -1,25 +1,78 @@
-<h1 align="center">Hi there👋, My name is Suman Chapagai</h1>
-<h3 align="center">A Cybersecurity graduate.</h3>
+<h1 align="center">Hey there 👋, I'm Suman Chapagai</h1>
+<h3 align="center">🔐 Cybersecurity Graduate | Aspiring Security Analyst | Passionate About Cybersecurity</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sumanchapagai&label=Profile%20views&color=0e75b6&style=flat" alt="sumanchapagai" /> </p>
-
-
-- 🔭 I’m currently working on [The Cyber Battlefield](https://github.com/SumanChapagai/cyber-battlefield)
-
-- 🌱 I’m planning on learning **Java and Python**
-
-- 📫 How to reach me **Sumanchapagai@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/suman-chapagai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suman-chapagai" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sumanchapagai&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sumanchapagai&show_icons=true&locale=en&layout=compact" alt="sumanchapagai" /></p>
+### 🧠 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sumanchapagai&show_icons=true&locale=en" alt="sumanchapagai" /></p>
+- 🎓 Cybersecurity graduate from **George Mason University**
+- 🔍 Exploring the field of **Security Operations**, **Threat Intelligence**, and **Incident Response**
+- 🧪 Building a hands-on lab to simulate real-world attack and defense scenarios
+- 🌱 Actively learning about SIEM tuning, detection engineering, and scripting in **Python & PowerShell**
+- 📫 Reach me at: **SumanChapagai@gmail.com**
+<!-- 💻 Currently working as a **Junior Security Analyst** at **BigBear.ai** -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumanchapagai&" alt="sumanchapagai" /></p>
+---
+
+### 🧩 Current Focus
+
+- 🛠️ Building an attack-defense lab in VirtualBox  
+- 📊 Writing detection rules in Splunk for Sysmon logs  
+- 🐚 Practicing buffer overflow and reverse shell payloads in Kali
+
+---
+
+### 📂 Featured Projects
+
+🔹 [Cyber Battlefield Lab](https://github.com/SumanChapagai/cyber-battlefield) — Home lab with attack-defense simulations  
+🔹 [Cyber Security Projects](https://github.com/SumanChapagai/CyberSecurity) — Azure and Active Directory Labs
+
+---
+
+### 🛠️ Languages & Tools
+
+<p align="left">
+  <!-- Programming Languages -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
+  
+  <!-- Systems and Virtualization -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-icon.svg" alt="VirtualBox" width="40" height="40"/>
+  
+  <!-- Dev Tools -->
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+</p>
+
+<!-- Text-based tools (no reliable icons) -->
+### 🧠 Cybersecurity Tools
+- **SIEM & Monitoring:** Splunk, Sysmon  
+- **Offensive Tools:** Nmap, Metasploit, Nessus  
+- **Traffic Analysis:** Wireshark  
+- **Scripting & Automation:** PowerShell, Bash
+
+
+
+---
+
+### 🤝 Connect with Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/suman-chapagai" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+</p>
+
+---
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sumanchapagai&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
