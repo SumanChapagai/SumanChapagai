@@ -20,6 +20,7 @@
 
 ### 🧩 Current Focus
 
+- 📔 Learning Java
 - 🛠️ Building an attack-defense lab in VirtualBox  
 - 📊 Writing detection rules in Splunk for Sysmon logs  
 - 🐚 Practicing buffer overflow and reverse shell payloads in Kali
